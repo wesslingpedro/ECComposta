@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\bin\Debug\net8.0\ECOMPOSTA.exe
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\bin\Debug\net8.0\ECOMPOSTA.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\bin\Debug\net8.0\ECOMPOSTA.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\bin\Debug\net8.0\ECOMPOSTA.dll
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\bin\Debug\net8.0\ECOMPOSTA.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\obj\Debug\net8.0\ECOMPOSTA.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\obj\Debug\net8.0\ECOMPOSTA.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\obj\Debug\net8.0\ECOMPOSTA.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\obj\Debug\net8.0\ECOMPOSTA.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\obj\Debug\net8.0\ECOMPOSTA.dll
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\obj\Debug\net8.0\refint\ECOMPOSTA.dll
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\obj\Debug\net8.0\ECOMPOSTA.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\obj\Debug\net8.0\ECOMPOSTA.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\ECOMPOSTA\ECOMPOSTA\obj\Debug\net8.0\ref\ECOMPOSTA.dll
